@@ -7,3 +7,6 @@ pyvenv.cfg
 bin
 lib
 include
+.ipynb_checkpoints
+share
+etc
