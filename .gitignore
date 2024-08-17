@@ -1,0 +1,9 @@
+# Files.
+pyvenv.cfg
+.DS_Store
+*.gz
+
+# Directories.
+bin
+lib
+include
