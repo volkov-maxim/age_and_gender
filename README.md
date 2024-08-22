@@ -40,6 +40,7 @@ http://0.0.0.0:8001/
 ---
 
 # Overview of the code
+* [train\_face_detector(kaggle).ipynb](./train_face_detector(kaggle).ipynb) - Jupyter notebook with data preprocessing, model training/testing and  metrics evaluation
 * [main.py](./main.py) - Base FastAPI functions  
 * [face_detector.py](./face_detector.py) - Face detector class
 * [classifiers.py](./classifiers.py) - Age and gender classes
