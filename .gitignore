@@ -10,3 +10,4 @@ include
 .ipynb_checkpoints
 share
 etc
+__pycache__
